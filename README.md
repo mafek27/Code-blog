@@ -3,6 +3,9 @@
 
 This is a project elaborated with the guide of the courses that I have studied in the  [Platzi platform](https://platzi.com/).
 In this case, its a basic but really well done blog page to practice more CSS.
+
+Course: Maquetacion de CSS
+
 ## 🛠 Skills (on this project)
 - HTML
 - CSS
