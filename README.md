@@ -20,7 +20,7 @@ In this case, its a basic but really well done blog page to practice more CSS.
 
 I am a multidisciplinary professional.
 
-- Digital marketing and product design.
+- Digital marketing background focused on product design.
 
 - UX/UI Designer and Frontend Developer (Junior level).
 
